@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Domain: https://shopify-front-end-challenge-megantran911.vercel.app/
+# Domain to access and test: https://shopify-front-end-challenge-megantran911.vercel.app/
 
 In the project directory, you can run:
 
